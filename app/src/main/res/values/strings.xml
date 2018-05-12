@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LocationApp</string>
+    <string name="service_not_available">Requested service is not available</string>
+    <string name="invalid_lat_long_used">Provided Lat/Long is invalid</string>
+    <string name="no_address_found">It was not possible to get an address for the provided coordinates</string>
+    <string name="address_found">Successfully matched an address</string>
+    <string name="no_geocoder_available">Currently, there is not GeoCoder available</string>
+    <string name="dialog_permissions_required">In order to use this app, permissions for location service are required.</string>
+    <string name="dialog_permissions_got_it">Got it!</string>
+</resources>
