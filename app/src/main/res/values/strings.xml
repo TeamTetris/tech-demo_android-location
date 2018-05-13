@@ -6,5 +6,6 @@
     <string name="address_found">Successfully matched an address</string>
     <string name="no_geocoder_available">Currently, there is not GeoCoder available</string>
     <string name="dialog_permissions_required">In order to use this app, permissions for location service are required.</string>
+    <string name="locationdetermination_failed">Unable to determine current location</string>
     <string name="dialog_permissions_got_it">Got it!</string>
 </resources>

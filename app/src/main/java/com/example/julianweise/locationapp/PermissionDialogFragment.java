@@ -13,7 +13,7 @@ public class PermissionDialogFragment extends DialogFragment {
         void onDialogGotItClicked(DialogFragment dialog);
     }
 
-    PermissionDialogListener mListener;
+    private PermissionDialogListener mListener;
 
     @Override
     public Dialog onCreateDialog(Bundle savedInstanceState) {
